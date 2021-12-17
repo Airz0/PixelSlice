@@ -2,7 +2,7 @@
 A 2 player python game that uses OpenCV to make your hands from the live feed of a camera the controllers in order to slice 
 fruits that appear on the screen to accumulate points. Think of it as human fruit ninja, waving your hands to cut the fruit.
 
-#Backstory
+# Backstory 
 The window size may be unusual as I created this game with the purpose of running on an Adafruit 64x64 rgb led display panel, 
 basically I had the game running and the physical hardware components all hooked up on a Raspberry Pi 3b+. The Pi would run
 headless and the display panel would mirror the desktop environment of the Pi, then by fitting the resolution and window size
