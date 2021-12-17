@@ -12,3 +12,5 @@ laggy, but the libraries required for the display panel to mirror the desktop en
 
 The game however, can still be played as long as a webcam or camera is detected (you might need to tweak the config for your
 specific live feed).
+
+I have unfortunately lost the assets for this game so probably isn't playable unless you add in your own.
